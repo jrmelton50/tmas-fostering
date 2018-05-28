@@ -1,0 +1,38 @@
+.homepageImage {
+    height: 400px;
+    margin: 1rem;
+}
+
+.cardImage {
+    height: 350px;
+}
+
+.cardWidth {
+    width: 25%;
+}
+
+.signupCheckboxes {
+    width: 18rem;
+    margin: 0;
+}
+
+.centerContent {
+    display: flex;
+    justify-content: center;
+}
+
+.leftJustify {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.verticalCenter {
+    margin: auto;
+    /* vertical-align: middle; */
+    /* display: inline-block; */
+}
+/* 
+.rowContainer {
+    display: table-cell;
+    vertical-align: middle;
+} */
